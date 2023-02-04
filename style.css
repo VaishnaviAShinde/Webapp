@@ -1,0 +1,33 @@
+img{
+    height: 200px;
+    width: 200px;
+    margin-left: 40%;
+    border-radius: 50%;
+    image-orientation: from-image;
+    flex-wrap:wrap;
+    mask-size: contain;
+    grid-row: auto;
+    padding: -1%;
+}
+h1{
+
+    margin-left: 30%;
+    margin-top: 3%;
+    margin-block-start: 2px;
+    font-style: italic;
+    font-variant: inherit;
+    color: aliceblue;
+    text-underline-offset: 1px;
+    
+
+}
+body{
+    background-color: black;
+}
+p{
+    margin-left: 30%;
+    padding: 0.5%;
+    color: aliceblue;
+    
+    margin-right: 30%;
+}   
